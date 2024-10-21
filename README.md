@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeydevv" alt="jeydevv" /></a> </p>
 
-- 🔭 I’m currently working on **StockHeart** (Currently Private)
+- 🔭 I’m currently working on **StockHeart** (Private)
 
 <!--<h3 align="left">Connect with me:</h3>
 <p align="left">
