@@ -18,3 +18,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeydevv&show_icons=true&locale=en&layout=compact" alt="jeydevv" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeydevv&show_icons=true&locale=en" alt="jeydevv" /></p>
+<p><b>Note: </b> Some stats may be inaccurate, actions inside of organisations are not counted.</p>
